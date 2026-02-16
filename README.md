@@ -94,7 +94,7 @@ This structure enables threshold definition, longitudinal tracking, and performa
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 The project delivers a scalable monitoring architecture that enables:
 
@@ -107,7 +107,7 @@ This framework can evolve into a live monitoring layer as AI usage scales.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Tahani Rubert  
 Data Analyst | AI Monitoring & Performance Analytics
