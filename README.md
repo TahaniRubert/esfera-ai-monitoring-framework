@@ -4,6 +4,13 @@ End-to-end analytical framework designed to measure, interpret, and monitor the 
 
 ---
 
+## Presentation
+
+Full project presentation available here:
+
+[View the full case study (PDF)](presentation/esfera_ai_monitoring_case_study.pdf)
+
+
 ## 📊 Project Overview
 
 This project transforms raw system logs into a structured analytical model capable of measuring:
