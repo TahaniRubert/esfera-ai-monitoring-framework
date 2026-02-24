@@ -9,7 +9,7 @@ Transforms raw conversational logs into measurable business, technical, and cost
 
 Full executive case study available here:
 
->>> [View the full case study (PDF)](presentation/esfera_ai_monitoring_case_study.pdf)
+> [View the full case study (PDF)](presentation/esfera_ai_monitoring_case_study.pdf)
 
 ---
 
