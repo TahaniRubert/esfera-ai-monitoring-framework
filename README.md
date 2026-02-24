@@ -88,7 +88,7 @@ The defined KPIs were operationalized into Tableau dashboards for executive and 
 
 ### Executive Monitoring Dashboard
 
-![Executive Dashboard](dashboard/executive_dashboard.png)
+![Executive Dashboard](dashboard/dashboard_1_system_status.png)
 
 **Focus:**
 - Usage distribution  
@@ -105,7 +105,7 @@ The defined KPIs were operationalized into Tableau dashboards for executive and 
 
 ### Technical Performance Dashboard
 
-![Technical Dashboard](dashboard/technical_dashboard.png)
+![Technical Dashboard](dashboard/dashboard_2_technical_exploration.png)
 
 **Focus:**
 - TTFT (Time to First Token)  
